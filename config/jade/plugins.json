@@ -158,6 +158,10 @@
     "dim_block_base": true,
     "dim_tank": true
   },
+  "compactmachines": {
+    "show_owner": false,
+    "bound_machine": true
+  },
   "railcraft": {
     "signals": true,
     "track_component": true,

@@ -33,7 +33,7 @@
 	"starBrightness": 0.5,
 	// If enabled, terrain fog will not be rendered.
 	// DEFAULT: `false`
-	"disableFog": false,
+	"disableFog": true,
 	// If set, this option explicitly overrides the fog distance (in chunks).
 	// DEFAULT: `0`
 	"fogOverride": 0,

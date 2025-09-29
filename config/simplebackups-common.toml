@@ -15,14 +15,14 @@ fullBackupTimer = 525960
 #The max amount of backup files to keep.
 # Default: 10
 # Range: 1 ~ 32767
-backupsToKeep = 10
+backupsToKeep = 6
 #The time between two backups in minutes
 #5 = each 5 minutes
 #60 = each hour
 #1440 = each day
 # Default: 120
 # Range: 1 ~ 32767
-timer = 120
+timer = 1440
 #Compression level:
 #  0  = no compression (low CPU usage, larger files)
 #  9  = maximum compression (high CPU usage, smaller files)
@@ -35,7 +35,7 @@ sendMessages = true
 #The max size of storage the backup folder. If it takes more storage, old files will be deleted.
 #Needs to be written as <number><space><storage type>
 #Valid storage types: B, KB, MB, GB, TB
-maxDiskSize = "25 GB"
+maxDiskSize = "16 GB"
 #Used to define the output path.
 outputPath = "simplebackups"
 #Create backups, even if nobody is online
@@ -67,3 +67,5 @@ useTickCounter = false
 [mod_compat]
 	#Should backup notifications be sent to Discord by using mc2discord? (needs to be installed)
 	mc2discord = true
+	#Should only worlds be backed up that are marked as favorite by Cherished Worlds mod?
+	onlyFavorites = false

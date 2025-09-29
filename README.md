@@ -5,7 +5,7 @@ The official repository of Minecraft Modpack Survival V21 for our semi-private m
 ## Setup:
 
 Minecraft: 1.21.1  
-NeoForge: 21.1.204  
+NeoForge: 21.1.209  
 Ram: It recommends using at least 8GB
 
 ## Change log:
