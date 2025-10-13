@@ -132,7 +132,45 @@
 		# Show entity heads on minimap
 		# Default: true
 		entity_heads: true
-		entity_icon: { }
+		entity_icon: {
+			"minecraft:zombie": true
+			"minecraft:squid": true
+			"artifacts:mimic": true
+			"aquaculture:carp": false
+			"livingthings:raccoon": true
+			"minecraft:donkey": true
+			"ars_nouveau:starbuncle": true
+			"eternal_starlight:the_gatekeeper": true
+			"aquaculture:brown_trout": false
+			"irons_spellbooks:necromancer": true
+			"productivebees:bumble_bee": true
+			"minecraft:enderman": true
+			"minecraft:spider": true
+			"minecraft:cat": true
+			"aquaculture:bluegill": false
+			"aquaculture:catfish": false
+			"minecraft:bat": true
+			"shiny:shiny_zombie": true
+			"aquaculture:perch": false
+			"minecraft:bee": true
+			"minecraft:cow": true
+			"minecraft:sheep": true
+			"productivebees:mason_bee": true
+			"livingthings:mantaray": true
+			"minecraft:horse": true
+			"minecraft:chicken": true
+			"aquaculture:smallmouth_bass": false
+			"minecraft:creeper": true
+			"minecraft:skeleton": true
+			"minecraft:salmon": false
+			"minecraft:zombie_villager": true
+			"aquaculture:muskellunge": false
+			"minecraft:glow_squid": true
+			"aquaculture:gar": false
+			"creeperoverhaul:dripstone_creeper": true
+			"minecraft:pig": true
+			"aquaculture:minnow": false
+		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
 		# Default: 0.5
