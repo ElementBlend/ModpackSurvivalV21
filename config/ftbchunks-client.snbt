@@ -133,43 +133,50 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:zombie": true
-			"minecraft:squid": true
-			"artifacts:mimic": true
-			"aquaculture:carp": false
+			"aquaculture:gar": false
+			"minecraft:bee": true
+			"productivebees:blue_banded_bee": true
+			"aquaculture:minnow": false
+			"creeperoverhaul:dripstone_creeper": true
+			"livingthings:mantaray": true
+			"minecraft:spider": true
+			"minecraft:cow": true
+			"minecraft:cat": true
+			"shiny:shiny_creeper": true
+			"aquaculture:muskellunge": false
+			"productivebees:mason_bee": true
 			"livingthings:raccoon": true
+			"minecraft:creeper": true
+			"livingthings:crab": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:villager": true
+			"minecraft:enderman": true
+			"minecraft:pig": true
+			"shiny:shiny_zombie": true
+			"minecraft:zombie_villager": true
+			"minecraft:sheep": true
+			"aquaculture:smallmouth_bass": false
+			"minecraft:squid": true
+			"minecraft:zombie": true
+			"minecraft:glow_squid": true
+			"minecraft:horse": true
+			"artifacts:mimic": true
+			"aquaculture:catfish": false
+			"aquaculture:carp": false
+			"minecraft:chicken": true
+			"productivebees:bumble_bee": true
+			"eternal_starlight:the_gatekeeper": true
 			"minecraft:donkey": true
 			"ars_nouveau:starbuncle": true
-			"eternal_starlight:the_gatekeeper": true
-			"aquaculture:brown_trout": false
-			"irons_spellbooks:necromancer": true
-			"productivebees:bumble_bee": true
-			"minecraft:enderman": true
-			"minecraft:spider": true
-			"minecraft:cat": true
-			"aquaculture:bluegill": false
-			"aquaculture:catfish": false
 			"minecraft:bat": true
-			"shiny:shiny_zombie": true
-			"aquaculture:perch": false
-			"minecraft:bee": true
-			"minecraft:cow": true
-			"minecraft:sheep": true
-			"productivebees:mason_bee": true
-			"livingthings:mantaray": true
-			"minecraft:horse": true
-			"minecraft:chicken": true
-			"aquaculture:smallmouth_bass": false
-			"minecraft:creeper": true
-			"minecraft:skeleton": true
+			"ars_nouveau:drygmy": true
+			"aquaculture:brown_trout": false
+			"aquaculture:bluegill": false
 			"minecraft:salmon": false
-			"minecraft:zombie_villager": true
-			"aquaculture:muskellunge": false
-			"minecraft:glow_squid": true
-			"aquaculture:gar": false
-			"creeperoverhaul:dripstone_creeper": true
-			"minecraft:pig": true
-			"aquaculture:minnow": false
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:skeleton": true
+			"aquaculture:perch": false
+			"minecraft:armadillo": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

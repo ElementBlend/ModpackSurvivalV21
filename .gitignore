@@ -95,6 +95,7 @@ roots.log
 seamless.txt
 servers.dat
 servers.dat_old
+TrashSlotSaveState.json
 usercache.json
 usernamecache.json
 user-prefs.json
