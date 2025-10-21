@@ -3,7 +3,7 @@
 ## 21.1
 
 NeoForge Version: 1.21.1-21.1.211  
-Total Mods: xxx
+Total Mods: 521
 
 **Changes**
 
@@ -73,7 +73,6 @@ Total Mods: xxx
 - fusion
 - fzzy config
 - geckolib
-- Ice And Fire Community Edition
 - incontrol
 - industrial-foregoing-souls
 - industrialforegoing

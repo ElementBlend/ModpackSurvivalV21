@@ -169,14 +169,14 @@
 	# Default: 60
 	# Range: 1 ~ 1000
 	restock_time_grave_guardian = 60
-	#Time in minutes to check if a soul appears on a grave [1..10000|default:10]
-	# Default: 10
-	# Range: 1 ~ 10000
-	soul_time = 10
 	#Chance on 1000 that a soul appears on a grave [0..100|default:25]
 	# Default: 25
 	# Range: 0 ~ 100
 	soul_chance = 25
+	#Time in minutes to check if a soul appears on a grave [1..10000|default:10]
+	# Default: 10
+	# Range: 1 ~ 10000
+	soul_time = 10
 
 #Options related to the command recovery and auto-save of players
 [recovery]

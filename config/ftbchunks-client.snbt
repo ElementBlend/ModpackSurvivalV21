@@ -133,50 +133,62 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"aquaculture:gar": false
-			"minecraft:bee": true
 			"productivebees:blue_banded_bee": true
-			"aquaculture:minnow": false
-			"creeperoverhaul:dripstone_creeper": true
-			"livingthings:mantaray": true
-			"minecraft:spider": true
-			"minecraft:cow": true
-			"minecraft:cat": true
-			"shiny:shiny_creeper": true
-			"aquaculture:muskellunge": false
-			"productivebees:mason_bee": true
-			"livingthings:raccoon": true
-			"minecraft:creeper": true
-			"livingthings:crab": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:villager": true
-			"minecraft:enderman": true
-			"minecraft:pig": true
-			"shiny:shiny_zombie": true
-			"minecraft:zombie_villager": true
-			"minecraft:sheep": true
-			"aquaculture:smallmouth_bass": false
-			"minecraft:squid": true
-			"minecraft:zombie": true
-			"minecraft:glow_squid": true
-			"minecraft:horse": true
-			"artifacts:mimic": true
-			"aquaculture:catfish": false
-			"aquaculture:carp": false
-			"minecraft:chicken": true
-			"productivebees:bumble_bee": true
-			"eternal_starlight:the_gatekeeper": true
 			"minecraft:donkey": true
-			"ars_nouveau:starbuncle": true
-			"minecraft:bat": true
-			"ars_nouveau:drygmy": true
-			"aquaculture:brown_trout": false
-			"aquaculture:bluegill": false
-			"minecraft:salmon": false
+			"aquaculture:minnow": false
+			"productivebees:configurable_bee": true
+			"livingthings:raccoon": true
+			"minecraft:pig": true
+			"aquaculture:gar": false
 			"creeperoverhaul:cave_creeper": true
+			"aquaculture:muskellunge": false
+			"eternal_starlight:the_gatekeeper": true
+			"livingthings:crab": true
+			"shiny:shiny_creeper": true
+			"productivebees:green_carpenter_bee": true
+			"minecraft:salmon": false
+			"minecraft:zombie_villager": true
+			"evilcraft:vengeance_spirit": true
+			"livingthings:mantaray": true
+			"minecraft:sheep": true
+			"minecraft:creeper": true
+			"aquaculture:smallmouth_bass": false
+			"shiny:shiny_zombie": true
+			"minecraft:witch": true
+			"minecraft:zombie": true
+			"aquaculture:catfish": false
+			"minecraft:chicken": true
+			"productivebees:mason_bee": true
+			"livingthings:flamingo": true
+			"irons_spellbooks:apothecarist": true
+			"minecraft:glow_squid": true
+			"aquaculture:carp": false
+			"minecraft:enderman": true
+			"productivebees:reed_bee": true
+			"minecraft:horse": true
+			"ars_nouveau:drygmy": true
+			"minecraft:bogged": true
 			"minecraft:skeleton": true
-			"aquaculture:perch": false
+			"aquaculture:bluegill": false
+			"productivebees:yellow_black_carpenter_bee": true
 			"minecraft:armadillo": true
+			"minecraft:cat": true
+			"artifacts:mimic": true
+			"creeperoverhaul:dripstone_creeper": true
+			"minecraft:bat": true
+			"irons_spellbooks:necromancer": true
+			"productivebees:bumble_bee": true
+			"minecraft:squid": true
+			"minecraft:villager": true
+			"aquaculture:brown_trout": false
+			"ars_nouveau:starbuncle": true
+			"aquaculture:perch": false
+			"minecraft:wolf": true
+			"minecraft:bee": true
+			"minecraft:axolotl": true
+			"minecraft:frog": true
+			"minecraft:cow": true
+			"minecraft:spider": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
