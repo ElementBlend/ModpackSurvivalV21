@@ -7,7 +7,7 @@ Total Mods: 521
 
 **Changes**
 
-- Update and merge the version of ATM10 to 4.14 from 4.11 (Without quest and localization)
+- Update and merge the version of ATM10 to 4.14 from 4.11
 - Fix bees from productive bees not able to show from JEI
 - Fix the crash when clicking show recipes from the breeding chamber and the babee incubator
 
